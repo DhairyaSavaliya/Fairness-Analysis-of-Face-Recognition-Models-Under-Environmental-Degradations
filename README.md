@@ -144,5 +144,3 @@ python scripts/05_run_gradcam_analysis.py
 ## 🎓 Citation & Thesis Details
 This project was developed as a B.Tech Comprehensive Project in the Department of Computer Science & Engineering, Pandit Deendayal Energy University (PDEU).
 *   **Author:** Dhairya Savaliya (22BCP338)
-*   **Supervisor:** Dr. Yogesh Kumar (PDEU)
-*   **Industry Mentorship:** Mr. Keyur Moradiya (TryzenIQ)
